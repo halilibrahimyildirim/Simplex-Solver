@@ -11,4 +11,7 @@
   Input must be in [MPS Format](https://en.wikipedia.org/wiki/MPS_(format)). There is some examples that you can edit.
 ## Output
   Output example shown in [Sonuc.txt](https://github.com/halilibrahimyildirim/Simplex-Solver/blob/master/Sonuc.txt), that is result of [Deneme.mps](https://github.com/halilibrahimyildirim/Simplex-Solver/blob/master/Deneme.mps). 
+## Contact
+Halil İbrahim Yıldırım - halil.ibr.yildirim@gmail.com
+
 #### (05/2017)
